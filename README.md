@@ -3,9 +3,9 @@ Oie ^.^
 </h1>
 
 <span align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgekunrath&show_icons=true&theme=cobalt&hide=stars,contribs" />
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgekunrath&show_icons=true&theme=cobalt&hide=stars,contribs" /></a>
 &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgekunrath&theme=cobalt&layout=compact&hide=TypeScript" />
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgekunrath&theme=cobalt&layout=compact&hide=TypeScript" /></a>
 </span>
 
 <!--
