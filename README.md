@@ -1,4 +1,10 @@
-### Hi there 👋
+
+<span align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgekunrath&show_icons=true&theme=cobalt&hide=stars,contribs" />
+</span>
+<span align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgekunrath&theme=cobalt&layout=compact&hide=TypeScript" />
+</span>
 
 <!--
 **JorgeKunrath/JorgeKunrath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
