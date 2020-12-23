@@ -3,9 +3,12 @@ Oie ^.^
 </h1>
 
 <span align="center">
-  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgekunrath&show_icons=true&theme=cobalt&hide=stars,contribs" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgekunrath&theme=cobalt&layout=compact&hide=TypeScript" /></a>
-</span>
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgekunrath&show_icons=true&theme=cobalt&hide=stars,contribs" /></a>
+&nbsp;	&nbsp;
+  
+  
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgekunrath&theme=cobalt&layout=compact&hide=TypeScript" /></a>
+</span>	</span>
 
 <!--
 **JorgeKunrath/JorgeKunrath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
